@@ -1,4 +1,4 @@
-🚀 MCP-RAG-Nexus
+🚀 McpCore
 
 Welcome to MCP-RAG-Nexus! This is a fully dockerized proof-of-concept designed to explore the power of the Model Context Protocol (MCP).
 
